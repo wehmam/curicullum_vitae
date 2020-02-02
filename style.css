@@ -1,0 +1,32 @@
+body{
+    position: relative;
+}
+
+#kontenpertama{
+    background: url(img/m.jpg);
+    height: 600px;
+    background-size: cover;
+    /* opacity: 0.8; */
+}
+#konten1{
+    color:#00acee;
+    /* font-weight: 400; */
+    line-height: 60px;
+}
+.nav-link{
+    /* color:red ;    */
+}
+.nav-link:hover{
+    color:#00acee
+}
+#myBtn{
+    /* margin: 20px; */
+    /* right: 20px; */
+}
+#konten2{
+    margin-top: -30px;
+    /* background-color: #fff; */
+}
+#nama{
+    line-height: 5px;
+}
